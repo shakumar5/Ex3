@@ -1,0 +1,128 @@
+
+.Description {
+	
+    text-align: center;
+    
+    
+    margin-top: 10px;
+    margin-bottom: 200px;
+    margin-right: 50px;
+    margin-left: 380px;
+
+    
+}
+
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size:30px;
+    margin-left: -70px;
+
+}
+div {
+	height: 100px;
+    width: 500px;
+}
+
+
+
+
+input[type=email] {
+	height: 30px;
+    width: 250px;
+}
+
+input[type=date] {
+	height: 30px;
+    width: 250px;
+}
+
+input[name=desc] {
+	margin-top: -910px;
+	height: 30px;
+    width: 350px;
+    margin-left: -60px;
+    
+}
+
+h4[name=desc1]{
+	margin-left: -10px;
+	margin-top: 50px;
+}
+
+h4[name=amt]{
+	margin-left: 250px;
+}
+
+input[type=number] {
+	height: 30px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+button[type=button] {
+	height: 30px;
+    width: 50px;
+    margin-left: -500px;
+    color:white;
+    background-color:rgb(0, 0, 95)
+    
+}
+
+h1[name=total]{
+	margin-left: 210px;
+	color:black;
+}
+
+input[type=submit] {
+	height: 30px;
+    width: 100px;
+    margin-left: 200px;
+}
+
+
+
+input[name=Name] {
+	height: 30px;
+    width: 250px;
+    margin-left: 50px;
+}
+
+input[name=Email] {
+	height: 30px;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+input[name=DueDate] {
+	height: 30px;
+    width: 250px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+button[name=clear] {
+	height: 30px;
+    width: 50px;
+    margin-left: 10px;
+    color:white;
+    background-color:rgb(0, 0, 95)
+    
+}
+
+
+
+
+
+
+
+
+
+
+
